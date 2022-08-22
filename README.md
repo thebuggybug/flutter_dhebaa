@@ -2,10 +2,9 @@
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 [![Screenshot-20220821-220811-Dhebaa.png](https://i.postimg.cc/vBs4bPJr/Screenshot-20220821-220811-Dhebaa.png)](https://postimg.cc/7CKHNNYh)
 
-[![Screenshot-20220821-220823-Dhebaa.png](https://i.postimg.cc/15j4f5x5/Screenshot-20220821-220823-Dhebaa.png)](https://postimg.cc/tYF9cbCL)
+<!-- [![Screenshot-20220821-220823-Dhebaa.png](https://i.postimg.cc/15j4f5x5/Screenshot-20220821-220823-Dhebaa.png)](https://postimg.cc/tYF9cbCL) -->
 
 A few resources to get you started if this is your first Flutter project:
 
